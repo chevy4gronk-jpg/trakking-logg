@@ -129,4 +129,4 @@ with tab2:
         st.dataframe(
             filtrert.drop(columns=["År", "Måned"]),
             use_container_width=True
-        )data/trakking-logg.xlsx
+        )data/trakking_logg.xlsx
