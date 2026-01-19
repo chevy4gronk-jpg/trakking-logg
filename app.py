@@ -129,4 +129,4 @@ with tab2:
         st.dataframe(
             filtrert.drop(columns=["År", "Måned"]),
             use_container_width=True
-        )data/https://docs.google.com/spreadsheets/d/1pv7F8aSYibs4iOJrrgsrX8BAi1eD_s47/edit?usp=drivesdk&ouid=117944760349150711944&rtpof=true&sd=true
+        )https://docs.google.com/spreadsheets/d/1pv7F8aSYibs4iOJrrgsrX8BAi1eD_s47/edit?usp=drivesdk&ouid=117944760349150711944&rtpof=true&sd=true
